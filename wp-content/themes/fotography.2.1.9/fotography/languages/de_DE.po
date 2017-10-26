@@ -1,0 +1,1517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FotoGraphy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Jun 19 2016 09:44:38 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: Sun Jun 19 2016 09:56:39 GMT+0545 (Nepal Standard Time)\n"
+"Last-Translator: admin <shiv@access-keys.com>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: de_DE"
+
+#: ../404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Diese Seite konnte leider nicht gefunden werden."
+
+#: ../404.php:19
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "error"
+msgstr "Fehler"
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Gedanken zu &bdquo;%2$s&ldquo;"
+
+#: ../comments.php:38 ../comments.php:59
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: ../comments.php:41 ../comments.php:62
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: ../comments.php:42 ../comments.php:63
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: ../comments.php:75
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschloßen."
+
+#: ../footer.php:59
+#, php-format
+msgid "&copy; %1$s %2$s"
+msgstr "&copy; %1$s %2$s"
+
+#: ../footer.php:62
+#, php-format
+msgid "WordPress Theme : %1$s by %2$s"
+msgstr "WordPress-Theme : %1$s von %2$s"
+
+#: ../functions.php:60
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: ../functions.php:113
+msgid "Left Sidebar Widget Area"
+msgstr "Widget-Bereich für linke Seitenleiste"
+
+#: ../functions.php:123
+msgid "Right Sidebar Widget Area"
+msgstr "Widget-Bereich für rechte Seitenleiste"
+
+#: ../functions.php:133
+msgid "HomePage Instagram Widget Area"
+msgstr "Bereich für das Instagram-Widget auf der Startseite"
+
+#: ../functions.php:143
+msgid "Gallery Widget Area"
+msgstr "Bereich für das Galerie-Widget"
+
+#: ../functions.php:153
+msgid "Footer Widget Area One"
+msgstr "Footer-Widget-Bereich Eins"
+
+#: ../functions.php:162
+msgid "Footer Widget Area Two"
+msgstr "Footer-Widget-Bereich Zwei"
+
+#: ../functions.php:171
+msgid "Footer Widget Area Three"
+msgstr "Footer-Widget-Bereich Drei"
+
+#: ../functions.php:180
+msgid "Footer Widget Area Four"
+msgstr "Footer-Widget-Bereich Vier"
+
+#: ../functions.php:190
+msgid "Social Icon Widget Area Four"
+msgstr "Widget-Bereich für Social Media-Icons 4"
+
+#: ../search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchresultat für: %s"
+
+#. Template Name of the plugin/theme
+msgid "Gallery Layout"
+msgstr "Layout der Galerie"
+
+#: ../template-gallery.php:51 ../template-home.php:12 ../template-home.php:120
+msgid "All"
+msgstr "Alles"
+
+#: ../template-gallery.php:162 ../inc/fotography-functions.php:344 ../template-
+#: parts/content.php:46
+msgid "Read More"
+msgstr "Mehr lesen"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#. Template Name of the plugin/theme
+msgid "Team Template"
+msgstr "Team-Template"
+
+#. Template Name of the plugin/theme
+msgid "Testimonial Page"
+msgstr "Seite für Bewertungen"
+
+#: ../inc/class-repeater.php:57 ../inc/class-repeater.php:141
+msgid "Fotography"
+msgstr "Fotography"
+
+#: ../inc/class-repeater.php:61 ../inc/class-repeater.php:144 ../inc/class-
+#: repeater.php:215
+msgid "Image type"
+msgstr "Bilddateityp"
+
+#: ../inc/class-repeater.php:63 ../inc/class-repeater.php:75 ../inc/class-
+#: repeater.php:97 ../inc/class-repeater.php:146 ../inc/class-repeater.php:158 ..
+#: inc/class-repeater.php:175 ../inc/class-repeater.php:217 ../inc/class-
+#: repeater.php:229 ../inc/class-repeater.php:246
+msgid "Icon"
+msgstr "Icon"
+
+#: ../inc/class-repeater.php:64 ../inc/class-repeater.php:69 ../inc/class-
+#: repeater.php:87 ../inc/class-repeater.php:147 ../inc/class-repeater.php:152 ..
+#: inc/class-repeater.php:169 ../inc/class-repeater.php:218 ../inc/class-
+#: repeater.php:223 ../inc/class-repeater.php:240
+msgid "Image"
+msgstr "﻿Bild"
+
+#: ../inc/class-repeater.php:65 ../inc/class-repeater.php:148 ../inc/class-
+#: repeater.php:219
+msgid "None"
+msgstr "leer"
+
+#: ../inc/class-repeater.php:71 ../inc/class-repeater.php:90 ../inc/class-
+#: repeater.php:154 ../inc/class-repeater.php:172 ../inc/class-repeater.php:225 ..
+#: inc/class-repeater.php:243
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: ../inc/class-repeater.php:110 ../inc/class-repeater.php:111 ../inc/class-
+#: repeater.php:186 ../inc/class-repeater.php:187 ../inc/class-repeater.php:255 ..
+#: inc/class-repeater.php:256 ../inc/widgets/fotography-widget.php:86 ..
+#: inc/widgets/widget-contact-info.php:38
+msgid "Title"
+msgstr "Widget-Titel"
+
+#: ../inc/class-repeater.php:116 ../inc/class-repeater.php:117 ../inc/class-
+#: repeater.php:192 ../inc/class-repeater.php:193 ../inc/class-repeater.php:258 ..
+#: inc/class-repeater.php:259
+msgid "Text"
+msgstr "Textzeile"
+
+#: ../inc/class-repeater.php:121 ../inc/class-repeater.php:122 ../inc/class-
+#: repeater.php:196 ../inc/class-repeater.php:197 ../inc/class-repeater.php:261 ..
+#: inc/class-repeater.php:262
+msgid "Link"
+msgstr "Verknüpfung"
+
+#: ../inc/class-repeater.php:127 ../inc/class-repeater.php:128 ../inc/class-
+#: repeater.php:199 ../inc/class-repeater.php:200 ../inc/class-repeater.php:264 ..
+#: inc/class-repeater.php:265
+msgid "Button Text"
+msgstr "Knopfbeschriftung"
+
+#: ../inc/class-repeater.php:133 ../inc/class-repeater.php:203 ../inc/class-
+#: repeater.php:268
+msgid "Delete field"
+msgstr "Lösche Feld"
+
+#: ../inc/class-repeater.php:212
+msgid "Advance Slider"
+msgstr "Erweiterte Slider"
+
+#: ../inc/class-repeater.php:277
+msgid "Add new field"
+msgstr "Neues Feld hinzufügen"
+
+#: ../inc/custom-metabox.php:13
+msgid "Gallery Page Layout"
+msgstr "Layout für Galerie-Seite"
+
+#: ../inc/custom-metabox.php:21 ../inc/custom-metabox.php:29
+msgid "Post Sidebar Layout"
+msgstr "Layout für die Seitenleiste in Beiträgen"
+
+#: ../inc/custom-metabox.php:38 ../inc/custom-metabox.php:252
+msgid "Select Our Team Category"
+msgstr "Wähle die Kategorie für „unser Team“"
+
+#: ../inc/custom-metabox.php:46 ../inc/custom-metabox.php:301
+msgid "Select Testimonial Category"
+msgstr "Wähle die Kategorie für Bewertungen"
+
+#: ../inc/custom-metabox.php:61
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: ../inc/custom-metabox.php:66
+msgid "No sidebar(Default)"
+msgstr "Keine Seitenleiste (Standard)"
+
+#: ../inc/custom-metabox.php:72
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: ../inc/custom-metabox.php:157
+msgid "Sly Layout(Default)"
+msgstr "Slider Layout (Standard)"
+
+#: ../inc/custom-metabox.php:162
+msgid "Classic Layout"
+msgstr "Klassisches Layout"
+
+#: ../inc/custom-metabox.php:168
+msgid "Folio Layout"
+msgstr "Layout für das Portfolio"
+
+#: ../inc/extras.php:73
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: ../inc/extras.php:102
+msgid "Home"
+msgstr "Anfang"
+
+#: ../inc/extras.php:117
+msgid "Archive by category"
+msgstr "Archive nach Kategorie "
+
+#: ../inc/extras.php:119
+msgid "Search results for"
+msgstr "Suchergebnisse für "
+
+#: ../inc/extras.php:177
+msgid "Posts tagged"
+msgstr "Posts Tagged"
+
+#: ../inc/extras.php:181
+msgid "Articles posted by "
+msgstr "Beiträge von "
+
+#: ../inc/extras.php:189
+msgid "Page"
+msgstr "Seite"
+
+#: ../inc/fotography-customizer.php:7
+msgid "Basic Settings"
+msgstr "Einstellungen"
+
+#: ../inc/fotography-customizer.php:18
+msgid "Webpage Layout"
+msgstr "Webseiten-Layout"
+
+#: ../inc/fotography-customizer.php:35
+msgid "Choose the layout that you want"
+msgstr "Wähle das Layout, das du möchtest"
+
+#: ../inc/fotography-customizer.php:39 ../inc/fotography-customizer.php:1146
+msgid "Full Width"
+msgstr "Vollgröße"
+
+#: ../inc/fotography-customizer.php:40 ../inc/fotography-customizer.php:1147
+msgid "Boxed"
+msgstr "Feste Breite"
+
+#: ../inc/fotography-customizer.php:46
+msgid "Logo Settings"
+msgstr "Einstellungen für das Logo"
+
+#: ../inc/fotography-customizer.php:51
+msgid "Themes Colors"
+msgstr "Theme-Farben"
+
+#: ../inc/fotography-customizer.php:56
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: ../inc/fotography-customizer.php:63
+msgid "Footer Copyright"
+msgstr "Fußzeile Copyright"
+
+#: ../inc/fotography-customizer.php:75
+msgid "Copyright"
+msgstr "Rechte"
+
+#: ../inc/fotography-customizer.php:82
+msgid "HomePage Settings"
+msgstr "Einstellungen für die Startseite"
+
+#: ../inc/fotography-customizer.php:93
+msgid "Home Slider Settings"
+msgstr "Einstellungen für Slider auf der Startseite"
+
+#: ../inc/fotography-customizer.php:105
+msgid "Enable Disable Slider"
+msgstr "Slider aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:109 ../inc/fotography-customizer.php:272 ..
+#: inc/fotography-customizer.php:460 ../inc/fotography-customizer.php:498 ..
+#: inc/fotography-customizer.php:572 ../inc/fotography-customizer.php:621 ..
+#: inc/fotography-customizer.php:711 ../inc/fotography-customizer.php:1269
+msgid "Enable"
+msgstr "Aktiv"
+
+#: ../inc/fotography-customizer.php:110 ../inc/fotography-customizer.php:273 ..
+#: inc/fotography-customizer.php:461 ../inc/fotography-customizer.php:499 ..
+#: inc/fotography-customizer.php:573 ../inc/fotography-customizer.php:622 ..
+#: inc/fotography-customizer.php:712 ../inc/fotography-customizer.php:1270
+msgid "Disable"
+msgstr "Deaktiviere"
+
+#: ../inc/fotography-customizer.php:131
+msgid "Main Slider Section"
+msgstr "Bereich für den Haupt-Slider"
+
+#: ../inc/fotography-customizer.php:133
+msgid "Upload Slider Image With Slider Title, Description, Link & Button Text"
+msgstr ""
+"Lade das Bild für den Slider mit dem Slider-Titel, der Beschreibung, der "
+"Verknüpfung und dem Text für den Button hoch"
+
+#: ../inc/fotography-customizer.php:154
+msgid "Show Pager"
+msgstr "Pager anzeigen"
+
+#: ../inc/fotography-customizer.php:158 ../inc/fotography-customizer.php:177 ..
+#: inc/fotography-customizer.php:883 ../inc/fotography-customizer.php:900 ..
+#: inc/fotography-customizer.php:917 ../inc/fotography-customizer.php:970 ..
+#: inc/fotography-customizer.php:987 ../inc/fotography-customizer.php:1004 ..
+#: inc/fotography-customizer.php:1281
+msgid "Yes"
+msgstr "Ja"
+
+#: ../inc/fotography-customizer.php:159 ../inc/fotography-customizer.php:178 ..
+#: inc/fotography-customizer.php:884 ../inc/fotography-customizer.php:901 ..
+#: inc/fotography-customizer.php:918 ../inc/fotography-customizer.php:971 ..
+#: inc/fotography-customizer.php:988 ../inc/fotography-customizer.php:1005 ..
+#: inc/fotography-customizer.php:1282
+msgid "No"
+msgstr "keine"
+
+#: ../inc/fotography-customizer.php:173
+msgid "Show Caption"
+msgstr "Untertitel anzeigen"
+
+#: ../inc/fotography-customizer.php:186
+msgid "HomePage Gallery Section"
+msgstr "Galerie-Bereich für die Startseite"
+
+#: ../inc/fotography-customizer.php:201
+msgid "Gallery Title"
+msgstr "Galerie-Titel"
+
+#: ../inc/fotography-customizer.php:214
+msgid "Choose the HomePage Layout"
+msgstr "Wähle das Layout für die Start-Seite"
+
+#: ../inc/fotography-customizer.php:218 ../inc/fotography-customizer.php:1198
+msgid "Default Layout"
+msgstr "Layout"
+
+#: ../inc/fotography-customizer.php:219 ../inc/fotography-customizer.php:846 ..
+#: inc/fotography-customizer.php:1241
+msgid "Sortable Thumb View"
+msgstr "Ansicht: Sortierbare Vorschaubilder"
+
+#: ../inc/fotography-customizer.php:220 ../inc/fotography-customizer.php:1199
+msgid "Thumbnail View"
+msgstr "Ansicht: Vorschaubilder"
+
+#: ../inc/fotography-customizer.php:238
+msgid "Select Gallery Category"
+msgstr "Wähle die Kategorie für die Galerie"
+
+#: ../inc/fotography-customizer.php:255
+msgid "Counter Section"
+msgstr "Counter-Bereich"
+
+#: ../inc/fotography-customizer.php:268
+msgid "Enable/Disable About Count Section"
+msgstr "Counter-Bereich aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:285
+msgid "Counter One"
+msgstr "Counter 1"
+
+#: ../inc/fotography-customizer.php:298
+msgid "Title One"
+msgstr "Titel 1"
+
+#: ../inc/fotography-customizer.php:311
+msgid ""
+"Example: <strong>fa-user-secret</strong>. Full list of icons is here "
+"<strong>Font Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-user-secret</strong>. Die komplette Liste mit Icons ist "
+"hier <strong>Font Awesome Link</strong> "
+
+#: ../inc/fotography-customizer.php:312
+msgid "Icon One"
+msgstr "Icon 1"
+
+#: ../inc/fotography-customizer.php:326
+msgid "Counter Two"
+msgstr "Counter 2"
+
+#: ../inc/fotography-customizer.php:339
+msgid "Title Two"
+msgstr "Titel 2"
+
+#: ../inc/fotography-customizer.php:352
+msgid ""
+"Example: <strong>fa-users</strong>. Full list of icons is here <strong>Font "
+"Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-users</strong>. Die komplette Liste mit Icons ist hier "
+"<strong>Font Awesome Link</strong> "
+
+#: ../inc/fotography-customizer.php:353
+msgid "Icon Two"
+msgstr "Icon 2"
+
+#: ../inc/fotography-customizer.php:367
+msgid "Counter Three"
+msgstr "Counter 3"
+
+#: ../inc/fotography-customizer.php:380
+msgid "Title Three"
+msgstr "Titel 3"
+
+#: ../inc/fotography-customizer.php:393
+msgid ""
+"Example: <strong>fa-tree</strong>. Full list of icons is here <strong>Font "
+"Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-tree</strong>. Die komplette Liste mit Icons ist hier "
+"<strong>Font Awesome Link</strong>"
+
+#: ../inc/fotography-customizer.php:394
+msgid "Icon Three"
+msgstr "Icon 3"
+
+#: ../inc/fotography-customizer.php:407
+msgid "Counter Four"
+msgstr "Counter 4"
+
+#: ../inc/fotography-customizer.php:420
+msgid "Title Four"
+msgstr "Titel 4"
+
+#: ../inc/fotography-customizer.php:433
+msgid ""
+"Example: <strong>fa-laptop</strong>. Full list of icons is here <strong>Font "
+"Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-laptop</strong>. Die komplette Liste mit Icons ist hier "
+"<strong>Font Awesome Link</strong> "
+
+#: ../inc/fotography-customizer.php:434
+msgid "Icon Four"
+msgstr "Icon 4"
+
+#: ../inc/fotography-customizer.php:443
+msgid "About Section"
+msgstr "„Über mich“-Bereich"
+
+#: ../inc/fotography-customizer.php:456
+msgid "Enable/Disable About Section"
+msgstr "„Über uns“-Bereich aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:472
+msgid "Select Page For About Section"
+msgstr "Wähle die Seite für den „Über uns“-Bereich"
+
+#: ../inc/fotography-customizer.php:481
+msgid "Our Services Section"
+msgstr "Bereich Dienstleistungen"
+
+#: ../inc/fotography-customizer.php:494
+msgid "Enable Disable Services Section"
+msgstr "Dienstleistungs-Bereich aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:511
+msgid "Our Services Title"
+msgstr "Titel für Dienstleistungen"
+
+#: ../inc/fotography-customizer.php:522
+msgid "Select Page For Services Area One"
+msgstr "Wähle die Seite für den Dienstleistungs-Abschnitt 1"
+
+#: ../inc/fotography-customizer.php:534
+msgid "Select Page For Services Area Two"
+msgstr "Wähle die Seite für den Dienstleistungs-Abschnitt 2"
+
+#: ../inc/fotography-customizer.php:546
+msgid "Select Page For Services Area Three"
+msgstr "Wähle die Seite für den Dienstleistungs-Abschnitt 3"
+
+#: ../inc/fotography-customizer.php:555
+msgid "Blogs Section"
+msgstr "Blogs-Bereich"
+
+#: ../inc/fotography-customizer.php:568
+msgid "Enable Disable Blogs Section"
+msgstr "Blogs-Bereich aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:585
+msgid "Enter Blogs Title"
+msgstr "Gebe den Blog-Titel ein"
+
+#: ../inc/fotography-customizer.php:596
+msgid "Select a Category for Blogs"
+msgstr "Wähle eine Kategorie für Blogs"
+
+#: ../inc/fotography-customizer.php:604
+msgid "Call to Action Section"
+msgstr "Aufforderung"
+
+#: ../inc/fotography-customizer.php:617
+msgid "Enable/Disable Quick Section"
+msgstr "„Quick Info“-Bereich aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:633
+msgid "BackGround Image"
+msgstr "Hintergrundbild"
+
+#: ../inc/fotography-customizer.php:647
+msgid "Call To Action Title"
+msgstr "„Call to action“-Titel"
+
+#: ../inc/fotography-customizer.php:660
+msgid "Call To Action Sub Title"
+msgstr "„Call to action“-Untertitel"
+
+#: ../inc/fotography-customizer.php:673
+msgid "Call To Action Button Link"
+msgstr "Verknüpfung für „Call To Action“-Button"
+
+#: ../inc/fotography-customizer.php:686
+msgid "Call To Action Button Name"
+msgstr "Name für „Call To Action\"-Button“"
+
+#: ../inc/fotography-customizer.php:694
+msgid "Quick Contact Info"
+msgstr "Schnell-Kontakt-Info"
+
+#: ../inc/fotography-customizer.php:707
+msgid "Enable/Disable Call Action Section"
+msgstr "„Call To Action“-Bereich aktivieren/deaktivieren"
+
+#: ../inc/fotography-customizer.php:725
+msgid ""
+"Example: <strong>fa-envelope</strong>. Full list of icons is here "
+"<strong>Font Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-envelope</strong>. Die komplette Liste mit Icons ist "
+"hier <strong>Font Awesome Link</strong>"
+
+#: ../inc/fotography-customizer.php:726
+msgid "Email Icon"
+msgstr "E-Mail-Icon"
+
+#: ../inc/fotography-customizer.php:739
+msgid "Email Address"
+msgstr "E-Mailadresse"
+
+#: ../inc/fotography-customizer.php:753
+msgid ""
+"Example: <strong>fa-twitter</strong>. Full list of icons is here "
+"<strong>Font Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-twitter</strong>. Die komplette Liste mit Icons ist "
+"hier <strong>Font Awesome Link</strong> "
+
+#: ../inc/fotography-customizer.php:754
+msgid "Twitter Icon"
+msgstr "Twitter-Icon"
+
+#: ../inc/fotography-customizer.php:767
+msgid "Twitter UserName"
+msgstr "Benutzername bei Twitter"
+
+#: ../inc/fotography-customizer.php:781
+msgid ""
+"Example: <strong>fa-phone-square</strong>. Full list of icons is here "
+"<strong>Font Awesome Link</strong>"
+msgstr ""
+"Beispiel: <strong>fa-phone-square</strong>. Die komplette Liste mit Icons "
+"ist hier <strong>Font Awesome Link</strong> "
+
+#: ../inc/fotography-customizer.php:782
+msgid "Phone Icon"
+msgstr "Telefon-Icon"
+
+#: ../inc/fotography-customizer.php:795
+msgid "Phone Number"
+msgstr "Telefonnummer:"
+
+#: ../inc/fotography-customizer.php:804
+msgid "Archive Layout Settings"
+msgstr "Layout-Einstellungen für das Archiv"
+
+#: ../inc/fotography-customizer.php:816
+msgid "Archive/Blogs Page Layouts"
+msgstr "Layouts für Archiv-/Blogs-Seite"
+
+#: ../inc/fotography-customizer.php:830
+msgid "Gallery Page Template Settings"
+msgstr "Einstellungen für das Template für Galerie-Seiten"
+
+#: ../inc/fotography-customizer.php:841
+msgid "Choose the Gallery Page Layout"
+msgstr "Wähle das Layout für die Galerie-Seite"
+
+#: ../inc/fotography-customizer.php:845 ../inc/fotography-customizer.php:1158 ..
+#: inc/fotography-customizer.php:1170 ../inc/fotography-customizer.php:1211 ..
+#: inc/fotography-customizer.php:1240
+msgid "Grid View"
+msgstr "Grid"
+
+#: ../inc/fotography-customizer.php:847 ../inc/fotography-customizer.php:1242
+msgid "Thumbs List View"
+msgstr "Ansicht: Vorschaubilder-Liste"
+
+#: ../inc/fotography-customizer.php:848 ../inc/fotography-customizer.php:954 ..
+#: inc/fotography-customizer.php:1212 ../inc/fotography-customizer.php:1243
+msgid "Large Thumbs List View"
+msgstr "Ansicht: Liste mit großen Vorschaubildern"
+
+#: ../inc/fotography-customizer.php:863
+msgid "Select the Category for Gallery Page"
+msgstr "Wähle die Kategorie für die Galerie-Seite"
+
+#: ../inc/fotography-customizer.php:879 ../inc/fotography-customizer.php:966
+msgid "Author Show/Hide Section"
+msgstr "Zeige/Verstecke Autor-Bereich"
+
+#: ../inc/fotography-customizer.php:896 ../inc/fotography-customizer.php:983
+msgid "PostDate Show/Hide Section"
+msgstr "Zeige/Verstecke Beitragsdatum"
+
+#: ../inc/fotography-customizer.php:913
+msgid "Category Show/Hide Section"
+msgstr "Zeige/Verstecke Kategorie-Bereich"
+
+#: ../inc/fotography-customizer.php:929
+msgid "Description Word Limit"
+msgstr "Max. Anzahl der Wörter in der Beschreibung"
+
+#: ../inc/fotography-customizer.php:938
+msgid "Blogs Page Layout Settings"
+msgstr "Layout-Einstellungen für die Blogs-Seite"
+
+#: ../inc/fotography-customizer.php:949
+msgid "Choose the Blogs Page Layout"
+msgstr "Wähle das Layout für die Galerie-Seite"
+
+#: ../inc/fotography-customizer.php:953 ../inc/fotography-customizer.php:1213
+msgid "Medium Thumbs List View"
+msgstr "Ansicht: Liste mit mittelgroßen Vorschaubildern"
+
+#: ../inc/fotography-customizer.php:1000
+msgid "Meta Category Show/Hide Section"
+msgstr "Zeige/Verstecke Meta-Kategorie-Bereich"
+
+#: ../inc/fotography-customizer.php:1017
+msgid "Blog Description Word Limit"
+msgstr "Maximale Anzahl an Wörter für die Blog-Beschreibung"
+
+#: ../inc/fotography-customizer.php:1025
+msgid "Custom CSS Section"
+msgstr "Individueller CSS-Bereich"
+
+#: ../inc/fotography-customizer.php:1036
+msgid "Custom CSS"
+msgstr "Individuelles CSS"
+
+#: ../inc/fotography-customizer.php:1047
+msgid "Our Products"
+msgstr "Unsere Produkte"
+
+#: ../inc/fotography-customizer.php:1056 ../inc/fotography-customizer.php:1059
+msgid "More Free Themes"
+msgstr "Mehr kostenlose Themes"
+
+#: ../inc/fotography-customizer.php:1069 ../inc/fotography-customizer.php:1072
+msgid "AccessPress PRO Themes"
+msgstr "AccessPress PRO Themes"
+
+#: ../inc/fotography-customizer.php:1083 ../inc/fotography-customizer.php:1086
+msgid "AccessPress Plugins"
+msgstr "AccessPress Plugins"
+
+#: ../inc/fotography-customizer.php:1093
+msgid "Theme Info"
+msgstr "Theme-Informationen"
+
+#: ../inc/fotography-customizer.php:1103
+msgid "Fotography Pro Features"
+msgstr "Features der Pro-Version"
+
+#: ../inc/fotography-customizer.php:1159 ../inc/fotography-customizer.php:1171
+msgid "List View"
+msgstr "Liste"
+
+#: ../inc/fotography-customizer.php:1182
+msgid "1"
+msgstr "1"
+
+#: ../inc/fotography-customizer.php:1183
+msgid "2"
+msgstr "2"
+
+#: ../inc/fotography-customizer.php:1184
+msgid "3"
+msgstr "3"
+
+#: ../inc/fotography-customizer.php:1185
+msgid "4"
+msgstr "4"
+
+#: ../inc/fotography-customizer.php:1200
+msgid "Gallery Images With Slider"
+msgstr "Bilder für Galerie mit Slider"
+
+#: ../inc/fotography-customizer.php:1254
+msgid "Fade"
+msgstr "Ein-/ Ausblenden"
+
+#: ../inc/fotography-customizer.php:1255
+msgid "Slide Horizontal"
+msgstr "horizontal"
+
+#: ../inc/fotography-customizer.php:1256
+msgid "Slide Vertical"
+msgstr "vertikal"
+
+#: ../inc/fotography-functions.php:602
+msgid "Fully built on customizer!"
+msgstr "Voll auf den Customizer aufgebaut!"
+
+#: ../inc/fotography-functions.php:603
+msgid "Multiple layout"
+msgstr "Mehrere Layouts"
+
+#: ../inc/fotography-functions.php:604
+msgid "Sidebar options"
+msgstr "Optionen für die Sidebar"
+
+#: ../inc/fotography-functions.php:605
+msgid "Typography Options"
+msgstr "Typografie-Optionen"
+
+#: ../inc/fotography-functions.php:606
+msgid "Multiple Color Scheme"
+msgstr "Mehrere Farbschemata"
+
+#: ../inc/fotography-functions.php:607
+msgid "Custom Shortcodes"
+msgstr "Individuelle Shortcodes"
+
+#: ../inc/fotography-functions.php:608
+msgid "Unlimited slider options"
+msgstr "Uneingeschränkte Optionen für den Slider"
+
+#: ../inc/fotography-functions.php:609
+msgid "Photographers, photo bloggers, photo journalists"
+msgstr "Fotografen, Foto-Blogger, Foto-Journalisten"
+
+#: ../inc/fotography-functions.php:610
+msgid "5 Different Gallery Layouts"
+msgstr "5 unterschiedliche Layouts für Galerien"
+
+#: ../inc/fotography-functions.php:611
+msgid "Like Button on Gallery"
+msgstr "„Like Button“ in den Galerien"
+
+#: ../inc/fotography-functions.php:612
+msgid "Advanced Gallery Display Options"
+msgstr "Erweiterte Anzeigeoptionen für Galerie"
+
+#: ../inc/fotography-functions.php:613
+msgid "Single Gallery Layout"
+msgstr "Layout für einzelne Galerie"
+
+#: ../inc/fotography-functions.php:614
+msgid "Page/ Post Title Settings"
+msgstr "Einstellungen für den Seiten/Beitrags-Titel"
+
+#: ../inc/fotography-functions.php:615
+msgid "Page Post Header Settings"
+msgstr "Einstellungen für den Seiten-/Beitrags-Header"
+
+#: ../inc/fotography-functions.php:616
+msgid "Page Settings"
+msgstr "Einstellungen für Seite"
+
+#: ../inc/fotography-functions.php:617
+msgid "5 Different Blog Display Layouts"
+msgstr "5 unterschiedliche Layouts für die Blogdarstellung"
+
+#: ../inc/fotography-functions.php:618
+msgid "Advanced Blog Display Options"
+msgstr "Erweiterte Anzeigeoptionen für Blog"
+
+#: ../inc/fotography-functions.php:619
+msgid "Team Member Layout"
+msgstr "Layout für die Team-Mitglieder"
+
+#: ../inc/fotography-functions.php:620
+msgid "Testimonial layout"
+msgstr "Layout für Bewertungen"
+
+#: ../inc/fotography-functions.php:621
+msgid "View on light-box"
+msgstr "In der light-box ansehen"
+
+#: ../inc/fotography-functions.php:622
+msgid "Responsive Design"
+msgstr "Responsives Design"
+
+#: ../inc/fotography-functions.php:623
+msgid "Instagram feed Integration"
+msgstr "Instagram-Feed-Einbindung"
+
+#: ../inc/fotography-functions.php:624
+msgid "Cross browser compatible"
+msgstr "Browserübergreifende Kompatibilität"
+
+#: ../inc/fotography-functions.php:625
+msgid "Fully SEO optimized"
+msgstr "Vollständig SEO-optimiert"
+
+#: ../inc/fotography-functions.php:626
+msgid "Fast loading"
+msgstr "Schnelles Laden der Seite"
+
+#: ../inc/fotography-functions.php:628
+msgid "Buy Now"
+msgstr "Jetzt kaufen"
+
+#: ../inc/fotography-functions.php:646 ../inc/fotography-functions.php:647
+msgid "More Themes"
+msgstr "Weitere Themes"
+
+#: ../inc/fotography-functions.php:665
+#, php-format
+msgid "More Themes from <a href=\"%s\" target=\"_blank\">AccessPress Themes</a>"
+msgstr "Mehr Themes von <a href=\"%s\" target=\"_blank\">AccessPress Themes</a>"
+
+#: ../inc/fotography-functions.php:693
+msgid "Active"
+msgstr "Aktive"
+
+#: ../inc/fotography-functions.php:695
+msgid "Customize"
+msgstr "modifizieren"
+
+#: ../inc/fotography-functions.php:730
+msgid "Already installed"
+msgstr "Bereits installiert"
+
+#: ../inc/fotography-functions.php:733 ../inc/fotography-plugin-activation.php:
+#: 1312 ../inc/fotography-plugin-activation.php:1312 ../inc/fotography-plugin-
+#: activation.php:1410
+msgid "Activate"
+msgstr "aktiviert"
+
+#: ../inc/fotography-functions.php:742
+msgid "Install Now"
+msgstr "Jetzt installieren"
+
+#: ../inc/fotography-functions.php:745
+msgid "Live Preview"
+msgstr "Live-Vorschau"
+
+#: ../inc/fotography-functions.php:842 ../inc/fotography-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Installiere erforderliche Plugins"
+
+#: ../inc/fotography-functions.php:843 ../inc/fotography-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: ../inc/fotography-functions.php:844 ../inc/fotography-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+#: ../inc/fotography-functions.php:845
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ging mit der Plugin-API schief."
+
+#: ../inc/fotography-functions.php:846 ../inc/fotography-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Das Theme erfordert das folgende Plugin: %1$s."
+msgstr[1] "Das Theme erfordert die folgenden Plugins: %1$s."
+
+#: ../inc/fotography-functions.php:849 ../inc/fotography-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bei diesem Theme wird die Verwendung des folgenden Plugins empfohlen: %1$s."
+msgstr[1] "Bei diesem Theme wird die Verwendung der folgenden Plugins empfohlen: %1$s."
+
+#: ../inc/fotography-functions.php:852
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Leider hast du nicht die erforderlichen Berechtigungen, um das Plugin %1$s "
+"zu installieren."
+msgstr[1] ""
+"Leider hast du nicht die erforderlichen Berechtigungen, um die Plugins %1$s "
+"zu installieren."
+
+#: ../inc/fotography-functions.php:855 ../inc/fotography-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Das folgende Plugin muss auf die neueste Version aktualisiert werden, um "
+"eine bestmögliche Kompatibilität mit diesem Theme zu gewährleisten: %1$s."
+msgstr[1] ""
+"Die folgenden Plugins müssen auf die neueste Version aktualisiert werden, um "
+"eine bestmögliche Kompatibilität mit diesem Theme zu gewährleisten: %1$s."
+
+#: ../inc/fotography-functions.php:858
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Aktualisierung verfügbar für %1$s"
+msgstr[1] "Aktualisierung verfügbar für %1$s: "
+
+#: ../inc/fotography-functions.php:861
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Entschuldigung, aber du hast nicht die ausreichende Berechtigung, um das "
+"Plugin %1$s zu aktualisieren."
+msgstr[1] ""
+"Entschuldigung, aber du hast nicht die ausreichende Berechtigung, um die "
+"Plugins %1$s zu aktualisieren."
+
+#: ../inc/fotography-functions.php:864 ../inc/fotography-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Folgende erforderliche Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv: %1$s."
+
+#: ../inc/fotography-functions.php:867 ../inc/fotography-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Folgendes empfohlen Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv: %1$s."
+
+#: ../inc/fotography-functions.php:870
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+"Entschuldigung, aber du hast nicht die ausreichende Berechtigung, um das "
+"Plugins %1$s zu aktivieren."
+msgstr[1] ""
+"Entschuldigung, aber du hast nicht die ausreichende Berechtigung, um die "
+"Plugins %1$s zu aktivieren."
+
+#: ../inc/fotography-functions.php:873 ../inc/fotography-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne mit der Installation des Plugin"
+msgstr[1] "Beginne mit der Installation der Plugins"
+
+#: ../inc/fotography-functions.php:876
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Update des Plugins starten"
+msgstr[1] "Update der Plugins starten"
+
+#: ../inc/fotography-functions.php:879 ../inc/fotography-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginne mit der Aktivierung des Plugins"
+msgstr[1] "Beginne mit der Aktivierung der Plugins"
+
+#: ../inc/fotography-functions.php:882 ../inc/fotography-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Installationsprogramm für erforderliche Plugins"
+
+#: ../inc/fotography-functions.php:883 ../inc/fotography-plugin-activation.php:
+#: 177 ../inc/fotography-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: ../inc/fotography-functions.php:884 ../inc/fotography-plugin-activation.php:
+#: 178 ../inc/fotography-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr "Das folgende Plugin wurde erfolgreich aktiviert:"
+
+#: ../inc/fotography-functions.php:885
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nichts verändert. Das Plugins %1$s war bereits aktiv."
+
+#: ../inc/fotography-functions.php:886
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Das Plugin wurde nicht aktiviert. Für dieses Theme wird eine höhere Version "
+"von %s benötigt. Bitte aktualisiere das Plugin."
+
+#: ../inc/fotography-functions.php:887 ../inc/fotography-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#: ../inc/fotography-functions.php:888
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte kontaktieren Sie den Administrator dieser Website für Hilfe."
+
+#: ../inc/fotography-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Irgendetwas ist falsch gelaufen."
+
+#: ../inc/fotography-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Leider reichen die Zugriffsrechte nicht aus, um das %s Plugin zu "
+"installieren. Bitte wende dich an den Administrator der Site."
+msgstr[1] ""
+"Leider reichen die Zugriffsrechte nicht aus, um die %s Plugins zu "
+"installieren. Bitte wende dich an den Administrator der Site."
+
+#: ../inc/fotography-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Entschuldigung, deine Zugriffsrechte reichen nicht aus, um das Plugin %s zu "
+"aktivieren. Bitte wende dich an den Administrator dieser Website, um dieses "
+"Plugin zu aktualisieren."
+msgstr[1] ""
+"Entschuldigung, deine Zugriffsrechte reichen nicht aus, um die Plugins %s  "
+"zu aktivieren. Bitte wende dich an den Administrator dieser Website, um "
+"dieses Plugin zu aktualisieren."
+
+#: ../inc/fotography-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Entschuldigung, deine Zugriffsrechte reichen nicht aus, um das Plugin %s zu "
+"aktualisieren. Bitte wende dich an den Administrator dieser Website, um "
+"dieses Plugin zu aktualisieren."
+msgstr[1] ""
+"Entschuldigung, deine Zugriffsrechte reichen nicht aus, um die Plugins %s zu "
+"aktualisieren. Bitte wende dich and den Administrator dieser Website, um "
+"dieses Plugin zu aktualisieren."
+
+#: ../inc/fotography-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: ../inc/fotography-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Diese Mitteilung verbergen"
+
+#: ../inc/fotography-plugin-activation.php:532 ../inc/fotography-plugin-
+#: activation.php:532 ../inc/fotography-plugin-activation.php:2173 ..
+#: inc/fotography-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: ../inc/fotography-plugin-activation.php:1167 ../inc/fotography-plugin-
+#: activation.php:1348
+msgid "Private Repository"
+msgstr "Privates Repository"
+
+#: ../inc/fotography-plugin-activation.php:1170 ../inc/fotography-plugin-
+#: activation.php:1351
+msgid "Pre-Packaged"
+msgstr "Vorverpackt"
+
+#: ../inc/fotography-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: ../inc/fotography-plugin-activation.php:1178
+msgid "Required"
+msgstr "Pflicht"
+
+#: ../inc/fotography-plugin-activation.php:1178
+msgid "Recommended"
+msgstr "EMPFOHLEN"
+
+#: ../inc/fotography-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: ../inc/fotography-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: ../inc/fotography-plugin-activation.php:1288 ../inc/fotography-plugin-
+#: activation.php:1288 ../inc/fotography-plugin-activation.php:1409
+msgid "Install"
+msgstr "Installieren"
+
+#: ../inc/fotography-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Keine Plugins zu installieren oder zu aktivieren. <a href=\"%1$s\" "
+"title=\"Zurück zum Dashboard\">Zurück zum Dashboard</a>"
+
+#: ../inc/fotography-plugin-activation.php:1388
+msgid "Plugin"
+msgstr "Plugins"
+
+#: ../inc/fotography-plugin-activation.php:1389
+msgid "Source"
+msgstr "Quelle"
+
+#: ../inc/fotography-plugin-activation.php:1390
+msgid "Type"
+msgstr "Objekttyp"
+
+#: ../inc/fotography-plugin-activation.php:1391
+msgid "Status"
+msgstr "Status"
+
+#: ../inc/fotography-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr "Installationspaket nicht verfügbar."
+
+#: ../inc/fotography-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Runterladen des Installationspakets von <span class=\"code\">%s</span>&#8230;"
+
+#: ../inc/fotography-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr "Entpacken des Pakets&#8230;"
+
+#: ../inc/fotography-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr "Das Plugin wird installiert&#8230;"
+
+#: ../inc/fotography-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr "Die Plugininstallation ist fehlgeschlagen."
+
+#: ../inc/fotography-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr "Das Plugin wurde erfolgreich installiert."
+
+#: ../inc/fotography-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr "Plugin Aktivierung fehlgeschlagen."
+
+#: ../inc/fotography-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Die Installation und Aktivierung beginnt. Dieser Vorgang kann auf manchen "
+"Hosts eine Weile dauern, bitte haben sie Geduld."
+
+#: ../inc/fotography-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: ../inc/fotography-plugin-activation.php:2070 ../inc/fotography-plugin-
+#: activation.php:2079
+msgid "Show Details"
+msgstr "Details zeigen"
+
+#: ../inc/fotography-plugin-activation.php:2070 ../inc/fotography-plugin-
+#: activation.php:2079
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: ../inc/fotography-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#: ../inc/fotography-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation und Aktivierung von Plugin %1$s (%2$d/%3$d)"
+
+#: ../inc/fotography-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsvorgang wird gestartet. Dieser Vorgang kann auf manchen "
+"Hosts eine Weile  dauern, bitte haben sie Geduld."
+
+#: ../inc/fotography-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Während der Installation von %1$s ist ein Fehler aufgetreten: "
+"<strong>%2$s</strong>."
+
+#: ../inc/fotography-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: ../inc/fotography-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+#: ../inc/fotography-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+#: ../inc/fotography-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#: ../inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Beitragsnavigation"
+
+#: ../inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Ältere Posts"
+
+#: ../inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Neuere Posts"
+
+#: ../inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post Nabigation"
+
+#: ../inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Geschrieben am %s"
+
+#: ../inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "von %s"
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:108 ../inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: ../inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Veröffentlicht in %1$s"
+
+#: ../inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Markiert mit %1$s"
+
+#: ../inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Schreib einen Kommentar"
+
+#: ../inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../inc/template-tags.php:122
+#, php-format
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../inc/widgets/fotography-widget.php:8
+msgid "Fotography Latest Post"
+msgstr "Fotography: Letzte Beiträge"
+
+#: ../inc/widgets/fotography-widget.php:10
+msgid "FG : Latest Post"
+msgstr "FG : Letzte Beiträge"
+
+#: ../inc/widgets/fotography-widget.php:94
+msgid "Category"
+msgstr "Kategorien"
+
+#: ../inc/widgets/fotography-widget.php:97
+msgid "Select Post Category"
+msgstr "Wähle die Kategorie für Beiträge"
+
+#: ../inc/widgets/fotography-widget.php:119
+msgid "Number of posts to show"
+msgstr "Anzahl anzuzeigender Einträge"
+
+#: ../inc/widgets/widget-callto-action.php:93
+msgid "Uplaod Call To Action Cover Image :"
+msgstr "Lade das Cover-Bild für den „Call To Action“-Bereich hoch"
+
+#: ../inc/widgets/widget-callto-action.php:98
+msgid "Call To Action Title :"
+msgstr "„Call To Action\"-Titel:"
+
+#: ../inc/widgets/widget-callto-action.php:103
+msgid "Call To Action Button Text :"
+msgstr "Text für „Call To Action\"-Button"
+
+#: ../inc/widgets/widget-callto-action.php:108
+msgid "Call To Action Button Link :"
+msgstr "„Call to action“-Verknüpfung für Button"
+
+#: ../inc/widgets/widget-contact-info.php:25
+msgid "A widget that shows Contact Info"
+msgstr "Ein Widget, das Kontakt-Infos zeigt"
+
+#: ../inc/widgets/widget-contact-info.php:43
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../inc/widgets/widget-contact-info.php:48
+msgid "Email"
+msgstr "E-Mail-Adresse:"
+
+#: ../inc/widgets/widget-contact-info.php:53
+msgid "Contact Address"
+msgstr "Kontakt-Adresse"
+
+#: ../inc/widgets/widget-contact-info.php:59
+msgid "About Description"
+msgstr "„Über mich“-Beschreibung"
+
+#: ../inc/widgets/widget-fields.php:184
+msgid "No file chosen"
+msgstr "Keine Datei gewählt"
+
+#: ../inc/widgets/widget-fields.php:187
+msgid "Upload"
+msgstr "Upload"
+
+#: ../inc/widgets/widget-fields.php:189
+msgid "Remove"
+msgstr "Entfernen"
+
+#: ../inc/widgets/widget-fields.php:192
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Aktualisiere deine WordPress Version f&uuml;r verbesserte Medien-"
+"Unterstützung."
+
+#: ../inc/widgets/widget-fields.php:214
+msgid "View File"
+msgstr "Datei anzeigen"
+
+#: ../template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: ../template-parts/content-none.php:26
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte "
+"hier</a>."
+
+#: ../template-parts/content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Tut uns leid, aber zu deinen Suchbegriffen wurde nichts passendes gefunden. "
+"Bitte versuche es mit anderen Stichworten noch einmal."
+
+#: ../template-parts/content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, dass wir dir nicht weiterhelfen können. Möglicherweise hilft die "
+"Suche."
+
+#: ../template-parts/content-page.php:13 ../template-parts/content-single.php:41
+msgid "Pages:"
+msgstr "Seiten"
+
+#: ../template-parts/content-page.php:20
+msgid "Edit"
+msgstr "Anpassen"
+
+#. Theme Name of the plugin/theme
+msgid "FotoGraphy"
+msgstr "FotoGraphy"
+
+#. Theme URI of the plugin/theme
+msgid "https://accesspressthemes.com/fotography"
+msgstr "https://accesspressthemes.com/fotography"
+
+#. Description of the plugin/theme
+msgid ""
+"FotoGraphy aka photography is beautiful, clean and elegant theme for "
+"photographers, artists to showcase their beautiful work. The theme has "
+"beautifully designed slider, portfolio section, service section and "
+"instagram showcase. It has four gallery layout, two blog layout, three "
+"single gallery page layout to choose from. The theme has team and "
+"testimonial page to show team member and client testimonials as well. This "
+"theme is fully responsive and built on customizer which gives you power to "
+"configure/customize with live preview. Great customer support via online "
+"chat, email, support forum. Official support forum: http://accesspressthemes."
+"com/support/ View full demo here: http://demo.accesspressthemes."
+"com/fotography/"
+msgstr ""
+"FotoGraphy aka photography ist ein schönes, elegantes und sauber umgesetztes "
+"Theme für Fotografen und Künstler, die ihr schönes Portfolio ausstellen "
+"möchten. Das Theme hat schön gestaltete Slider, einen Portfolio-Bereich, "
+"einen Service-Bereich sowie einen Bereich für Instagram-Neuigkeiten. Es "
+"bietet 4 Layouts für Galerien, 2 Layouts für einen Blog und 3 Seiten-Layouts "
+"für Galerien. Das Theme verfügt zudem über eine Team-Seite zur Vorstellung "
+"des Teams sowie eine Seite für Kundenbewertungen. Das Theme ist voll "
+"responsiv und lässt sich ganz einfach über den Customizer per Live-"
+"Voransicht einstellen und individuell konfigurieren. Wir bieten großartigen "
+"Kundenservice via Chat, E-Mail und das Support-Forum.\n"
+"Das offizielle Support-Forum: http://accesspressthemes.com/support/\n"
+"Sieh dir die komplette Demo hier an: http://demo.accesspressthemes."
+"com/fotography/"
+
+#. Author of the plugin/theme
+msgid "AccessPress Themes"
+msgstr "AccessPress Themes"
+
+#. Author URI of the plugin/theme
+msgid "https://accesspressthemes.com/"
+msgstr "https://accesspressthemes.com/"
